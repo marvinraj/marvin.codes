@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <h1>this would me the main page, obviously.</h1>
+    <h1>this would be the main page, obviously.</h1>
   );
 }
