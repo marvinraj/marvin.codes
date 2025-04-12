@@ -27,6 +27,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {/* layout is typically used for elements like navbar, sidebar and footer */}
+        {/* which appears on every page */}
         {children}
       </body>
     </html>
