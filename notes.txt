@@ -1,0 +1,5 @@
+plan 
+
+1. insert the fonts and try it out, settle this first
+2. work on the sidebar -> create components folder and add the components in?
+3. coming soon...
