@@ -3,3 +3,8 @@ plan
 1. insert the fonts and try it out, settle this first
 2. work on the sidebar -> create components folder and add the components in?
 3. coming soon...
+
+thought processes while i work on this 
+- added fonts, quite easy. referred to youtube and other resources on google
+- now time to properly structure the basic project structure
+    - create the folders/files first, code later
