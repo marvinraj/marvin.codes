@@ -1,18 +1,18 @@
+// logo + social media icons
 
 function Sidebar() {
   return (
     <> 
         <div>
-            {/* top side -> TBD */}
+            {/* top side -> vertical line + logo */}
             <div>
-                <p>top side</p>
+                <a href="#" className="font-belleza text-2xl">M</a>
             </div>
-            {/* bottom side -> CATEGORIES */}
-            <ul className="text-sm font-belleza">
-                <li><a href="#">PROJECTS</a></li>
-                <li><a href="#">ABOUT</a></li>
-                <li><a href="#">EXPERIENCE</a></li>
-                <li><a href="#">CONTACT</a></li>
+            {/* bottom side -> social media icons */}
+            <ul className="text-xs font-inter">
+              <li><a href="#">linkedin</a></li>
+              <li><a href="#">github</a></li>
+              <li><a href="#">medium</a></li>
             </ul>
         </div>
     </>
